@@ -27,6 +27,62 @@ print(a+b)
 
 # If ELse Elif statement
 """
-# Guessing Number
-import random
-random.randint(1,100)
+#Loop while - created a guess game
+#for Loop - range(function)  # Sequence # String
+#nested Loop - pascal triangle
+#Break,Continue,Pass
+#Built in-functions in Python print,input,type,int etc. , abs , pow , min/max , divmod , round , bin/oct/hex , id , ord , len , sum, help, 
+# Built in Modules - Code library - Eg. Math, Random, os , time
+# Strings in Python
+# 27th March 2023
+# Operations on Strings in Python - Addition , multiplication, relational, Loop, Logical, membership
+# String Functions - 
+    # Common Functions  len, max, min , sorted
+    # Capitilize/Title/Upper/Lower/Swapcase
+    #Count
+    #Find/INdex
+    #endswith/startswith
+    #format
+    #isalnum/isalpha/isdecimal/isdigit/isidentifier
+    #split
+    #jion
+    #strip
+# List actions; Append, extend,insert,delete (del,remove,pop,clear),functions on List,
+    #len,minmax,sorted,sort,index
+# Sets uses Hashing
+    # addition, possible in sets
+    # sets has union, intersection,differences,isdisjione,issuperset,isclear
+# Dictionary
+    # No inddexing, key are immutable,, dict is mutable
+# Variable and Memory References:
+    # RAM, refernece counting,(sys.getrefcount),garbage collection,
+    #weuird behaviour in python                                                                                 
+# Functions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
