@@ -58,6 +58,12 @@ print(a+b)
     # RAM, refernece counting,(sys.getrefcount),garbage collection,
     #weuird behaviour in python                                                                                 
 # Functions
+# Lambda Function : x = lambda x:x**2 # One Liner # Not for Code reusability # No Name
+# Map - Map(func,*iterables) , filter , reduce 
+# List Comprehension,
+# oops has aggregation and inheritance
+# THere are 4 types of Inheritance in Python - singlechild, multilevel, hierarical, 2 parents -> 1 child
+
 
 
 

@@ -7,6 +7,8 @@ Tuturt AIML Assignemnt https://drive.google.com/drive/folders/1oO9QY2sy7eL9vFxWy
 # ML-Roadmap-for-2022
 A curated list of Machine learning videos, links, projects and datasets to help you conquer the ML landscape in 6 months
 
+24th March 2023 - 24th August 2023
+
 ## Levels of Learning
 1. ### Testing the waters
 2. ### Gaining Conceptual depth
