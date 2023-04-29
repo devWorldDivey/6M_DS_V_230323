@@ -56,16 +56,18 @@ The goal of this level is to get you familiar with the ML universe. You will lea
 
 6. #### Learn Data Analysis Process (Est. time 1 week)
         1. Playlist - https://www.youtube.com/watch?v=ZhacwtUR0SU&list=PLKnIA16_RmvZAqJzKstVHywcRNMn6pcGD 18th April 2023 -19th April 2023
+                For Web Scrapping - https://www.youtube.com/watch?v=2hPCX-p_X8Q
 
-7. #### Learn Exploratory Data Analysis (EDA) (Est. time 1 Week)
-       1. Understanding your data - https://www.youtube.com/watch?v=mJlRTUuVr04
-       2. Univariate Analysis - https://www.youtube.com/watch?v=4HyTlbHUKSw
-       3. Bivariate and Multivariate Analysis - https://www.youtube.com/watch?v=6D3VtEfCw7w
-       4. Pandas Profiling - https://www.youtube.com/watch?v=E69Lg2ZgOxg
-       5. EDA on House Prices Dataset - https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python
-       6. EDA on Titanic Dataset - https://www.kaggle.com/startupsci/titanic-data-science-solutions
-       7. EDA on Haberman's Survival Dataset - https://www.kaggle.com/gokulkarthik/haberman-s-survival-exploratory-data-analysis
-       8. EDA on Heart Disease Dataset - https://www.kaggle.com/kralmachine/analyzing-the-heart-disease
+
+7. #### Learn Exploratory Data Analysis (EDA) (Est. time 1 Week) On 30th April to complete
+       1. Understanding your data - https://www.youtube.com/watch?v=mJlRTUuVr04 30 Apr 2023
+       2. Univariate Analysis - https://www.youtube.com/watch?v=4HyTlbHUKSw 30 Apr 2023
+       3. Bivariate and Multivariate Analysis - https://www.youtube.com/watch?v=6D3VtEfCw7w 30 Apr 2023
+       4. Pandas Profiling - https://www.youtube.com/watch?v=E69Lg2ZgOxg 30 Apr 2023
+       5. EDA on House Prices Dataset - https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python 30 Apr 2023
+       6. EDA on Titanic Dataset - https://www.kaggle.com/startupsci/titanic-data-science-solutions 30 Apr 2023
+       7. EDA on Haberman's Survival Dataset - https://www.kaggle.com/gokulkarthik/haberman-s-survival-exploratory-data-analysis 30 Apr 2023
+       8. EDA on Heart Disease Dataset - https://www.kaggle.com/kralmachine/analyzing-the-heart-disease 30 Apr 2023
        9. EDA on IPL Dataset - https://www.kaggle.com/ash316/let-s-play-cricket
        10. EDA on Wine Review Dataset - https://www.kaggle.com/kabure/wine-review-s-eda-recommend-systems
        11. EDA on PIMA Diabetes Dataset - https://www.kaggle.com/shrutimechlearn/step-by-step-diabetes-classification-knn-detailed
